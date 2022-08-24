@@ -1,0 +1,16 @@
+C:\Users\juanc\UTN\Prog. y Lab. II\Soluciones y proyectos - VS\Guía\Tema_01_Ejercicio_I02\bin\Debug\net5.0\Tema_01_Ejercicio_I02.exe
+C:\Users\juanc\UTN\Prog. y Lab. II\Soluciones y proyectos - VS\Guía\Tema_01_Ejercicio_I02\bin\Debug\net5.0\Tema_01_Ejercicio_I02.deps.json
+C:\Users\juanc\UTN\Prog. y Lab. II\Soluciones y proyectos - VS\Guía\Tema_01_Ejercicio_I02\bin\Debug\net5.0\Tema_01_Ejercicio_I02.runtimeconfig.json
+C:\Users\juanc\UTN\Prog. y Lab. II\Soluciones y proyectos - VS\Guía\Tema_01_Ejercicio_I02\bin\Debug\net5.0\Tema_01_Ejercicio_I02.runtimeconfig.dev.json
+C:\Users\juanc\UTN\Prog. y Lab. II\Soluciones y proyectos - VS\Guía\Tema_01_Ejercicio_I02\bin\Debug\net5.0\Tema_01_Ejercicio_I02.dll
+C:\Users\juanc\UTN\Prog. y Lab. II\Soluciones y proyectos - VS\Guía\Tema_01_Ejercicio_I02\bin\Debug\net5.0\Tema_01_Ejercicio_I02.pdb
+C:\Users\juanc\UTN\Prog. y Lab. II\Soluciones y proyectos - VS\Guía\Tema_01_Ejercicio_I02\obj\Debug\net5.0\Tema_01_Ejercicio_I02.csproj.AssemblyReference.cache
+C:\Users\juanc\UTN\Prog. y Lab. II\Soluciones y proyectos - VS\Guía\Tema_01_Ejercicio_I02\obj\Debug\net5.0\Tema_01_Ejercicio_I02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanc\UTN\Prog. y Lab. II\Soluciones y proyectos - VS\Guía\Tema_01_Ejercicio_I02\obj\Debug\net5.0\Tema_01_Ejercicio_I02.AssemblyInfoInputs.cache
+C:\Users\juanc\UTN\Prog. y Lab. II\Soluciones y proyectos - VS\Guía\Tema_01_Ejercicio_I02\obj\Debug\net5.0\Tema_01_Ejercicio_I02.AssemblyInfo.cs
+C:\Users\juanc\UTN\Prog. y Lab. II\Soluciones y proyectos - VS\Guía\Tema_01_Ejercicio_I02\obj\Debug\net5.0\Tema_01_Ejercicio_I02.csproj.CoreCompileInputs.cache
+C:\Users\juanc\UTN\Prog. y Lab. II\Soluciones y proyectos - VS\Guía\Tema_01_Ejercicio_I02\obj\Debug\net5.0\Tema_01_Ejercicio_I02.dll
+C:\Users\juanc\UTN\Prog. y Lab. II\Soluciones y proyectos - VS\Guía\Tema_01_Ejercicio_I02\obj\Debug\net5.0\refint\Tema_01_Ejercicio_I02.dll
+C:\Users\juanc\UTN\Prog. y Lab. II\Soluciones y proyectos - VS\Guía\Tema_01_Ejercicio_I02\obj\Debug\net5.0\Tema_01_Ejercicio_I02.pdb
+C:\Users\juanc\UTN\Prog. y Lab. II\Soluciones y proyectos - VS\Guía\Tema_01_Ejercicio_I02\obj\Debug\net5.0\Tema_01_Ejercicio_I02.genruntimeconfig.cache
+C:\Users\juanc\UTN\Prog. y Lab. II\Soluciones y proyectos - VS\Guía\Tema_01_Ejercicio_I02\obj\Debug\net5.0\ref\Tema_01_Ejercicio_I02.dll
